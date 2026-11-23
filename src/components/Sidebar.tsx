@@ -56,9 +56,9 @@ export default function Sidebar() {
         </a>
 
         <a
-          href="https://www.linkedin.com/"
+          href="https://www.linkedin.com/in/ashishpchoudhary/"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           aria-label="LinkedIn"
           className="text-[#94a3b8] transition-colors hover:text-[#5eead4]"
         >

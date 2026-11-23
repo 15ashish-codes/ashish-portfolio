@@ -269,11 +269,11 @@ async function handleSubmit(event: FormEvent<HTMLFormElement>) {
             </a>
 
             <a
-              href="https://www.linkedin.com/"
-              target="_blank"
-              rel="noreferrer"
-              aria-label="LinkedIn"
-              className="transition hover:text-[#c6ff4d]"
+            href="https://www.linkedin.com/in/ashishpchoudhary/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="LinkedIn"
+            className="transition hover:text-[#c6ff4d]"
             >
               <AtSign size={18} />
             </a>
@@ -764,10 +764,11 @@ async function handleSubmit(event: FormEvent<HTMLFormElement>) {
               </a>
 
               <a
-                href="https://www.linkedin.com/"
-                target="_blank"
-                rel="noreferrer"
-                className="block transition hover:text-[#c6ff4d]"
+              href="https://www.linkedin.com/in/ashishpchoudhary/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="LinkedIn"
+              className="transition hover:text-[#c6ff4d]"
               >
                 LinkedIn ↗
               </a>
